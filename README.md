@@ -50,96 +50,96 @@ class GuilhermeCastroMelo:
 
 ---
 
-## 🎯 Objetivo Profissional
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVlMGtmdm5yNmM1NndyYjRzZXZiMDg5MDRhbTducmczMXltcDVlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5E9uS9vKcwu0n7svJA/giphy.gif" width="300">
+</div>
 
-Estou em transição de carreira para a área de tecnologia, focado em **Cloud Computing** e **Cyber Security**. Atualmente me dedico a programas de formação intensiva e busco minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos.
+## 🛠️ Stack Técnica
 
----
+<div align="center">
 
-## 🚀 Tecnologias & Ferramentas
+| ☁️ Cloud | 🔐 Security | 💻 Dev | 🔧 Tools |
+|----------|-------------|--------|----------|
+| AWS | Kali | Python | Git |
+| EC2 | OWASP | Terraform | Linux |
+| S3 | Wireshark | Bash | VS Code |
+| VPC | Pentest | JavaScript | GitHub |
+| IAM | Security | HTML/CSS | Excel |
 
-### ☁️ Cloud Computing
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### 🔐 Cyber Security
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-000000?style=flat-square&logo=security&logoColor=white)
-
-### 💻 Desenvolvimento & Automação
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🛠️ DevOps & IaC
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-239120?style=flat-square&logo=gitlab&logoColor=white)
+</div>
 
 ---
 
-## 📚 Formação & Certificações
-
-### 🎓 Programas em Andamento
-- **AWS re/Start** - Formação intensiva em Cloud Computing
-- **Google Cyber Security** - Certificação profissional em Segurança
-- **Geração Tech** - Programa de desenvolvimento profissional
-
-### 🏆 Certificações Planejadas
-- [ ] AWS Certified Cloud Practitioner (CCP)
-- [ ] Google Cyber Security Certificate
-- [ ] CompTIA Security+
-
----
-
-## 💼 Áreas de Interesse
-
-- ☁️ **Cloud Computing**: AWS, Azure, GCP
-- 🔐 **Cyber Security**: SOC, SIEM, Análise de Vulnerabilidades
-- 🚀 **DevSecOps**: Segurança em pipelines CI/CD
-- 🐍 **Automação**: Python para Security & Cloud
-- 📊 **Infraestrutura como Código**: Terraform, CloudFormation
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S4FoGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&icon_color=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S4FoGui&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4FoGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/> 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4FoGui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4FoGui&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
 
 </div>
 
 ---
 
-## 🌟 Projetos em Destaque
+## 📚 Formação
 
-🔜 Em breve estarei publicando projetos relacionados a:
-- Automação de tarefas em AWS com Python
-- Scripts de segurança e análise de logs
-- Infraestrutura como código com Terraform
-- Laboratórios de prática de Cyber Security
+<div align="center">
+
+| 📖 Programa | 🏢 Instituição | 📌 Status |
+|-------------|----------------|-----------|
+| AWS re/Start | Amazon Web Services | 🔄 Em andamento |
+| Cyber Security Certificate | Google | 🔄 Em andamento |
+| Desenvolvimento Web Full Stack  |Geração Tech/Digital College| 🔄 Em andamento |
+| Excel Avançado | Cagece | ✅ Concluído |
+
+</div>
 
 ---
 
-## 📫 Contato
+## 🎯 Roadmap 2025
 
-Estou aberto a oportunidades, networking e colaborações!
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  ☐ AWS Certified Cloud Practitioner (CCP)                   │
+│  ☐ Google Cyber Security Certificate                        │
+│  ☐ Projetos práticos em DevSecOps                           │
+│  ☐ Portfólio de Infraestrutura como Código (Terraform)      │
+│  ☐ Scripts de automação e segurança em Python               │
+│  ☐ Primeira oportunidade em Cloud/Cyber Security            │
+└─────────────────────────────────────────────────────────────┘
+```
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-castro-melo-3499bb386)
-- 📧 Email: guilhermecastromelopy@gmail.com
-- 🐙 GitHub: [@S4FoGui](https://github.com/S4FoGui)
+---
+![Tetris Commits](https://raw.githubusercontent.com/SpiderflameKai/SpiderflameKai/main/dist/tetris-commits.svg)
+
+## 🌟 Projetos
+
+<div align="center">
+
+### 🚧 Em Desenvolvimento
+
+*Projetos de DevSecOps, Automação Python e Infraestrutura AWS em breve!*
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "A jornada de mil milhas começa com um único passo"
+## 💬 Filosofia
 
-![Visitor Count](https://profile-counter.glitch.me/S4FoGui/count.svg)
+> *"Disciplina e foco transformam conhecimento em resultados."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=S4FoGui&color=00D4FF&style=flat-square&label=Profile+Views)
+
+### Conecte-se e acompanhe minha jornada! 🚀
 
 </div>
+
+```
