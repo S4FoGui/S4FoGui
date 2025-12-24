@@ -10,6 +10,8 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermecastromelopy@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/S4FoGui)
 
+![Commits](https://img.shields.io/github/commit-activity/m/S4FoGui/S4FoGui?style=flat-square&logo=github&logoColor=white&color=00D4FF&label=Commits%20(Mês))
+![Last Commit](https://img.shields.io/github/last-commit/S4FoGui/S4FoGui?style=flat-square&logo=github&logoColor=white&color=00D4FF&label=Último%20Commit)
 </div>
 
 ---
@@ -58,33 +60,52 @@ class GuilhermeCastroMelo:
 
 <div align="center">
 
-| ☁️ Cloud | 🔐 Security | 💻 Dev | 🔧 Tools |
-|----------|-------------|--------|----------|
-| AWS | Kali | Python | Git |
-| EC2 | OWASP | Terraform | Linux |
-| S3 | Wireshark | Bash | VS Code |
-| VPC | Pentest | JavaScript | GitHub |
-| IAM | Security | HTML/CSS | Excel |
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔐 Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 💻 Linguagens & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4FoGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/> 
+<a href="https://github.com/S4FoGui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4FoGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/> 
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4FoGui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+<a href="https://github.com/S4FoGui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4FoGui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8"/>
+</a>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4FoGui&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
+<a href="https://github.com/S4FoGui">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4FoGui&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&stroke=00D4FF"/>
+</a>
+
+<!-- Gráfico de Contribuições -->
+<a href="https://github.com/S4FoGui">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4FoGui&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições"/>
+</a>
 
 </div>
-
 ---
-
 ## 📚 Formação
 
 <div align="center">
@@ -114,7 +135,11 @@ class GuilhermeCastroMelo:
 ```
 
 ---
-![Tetris Commits](https://raw.githubusercontent.com/SpiderflameKai/SpiderflameKai/main/dist/tetris-commits.svg)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJlYzNnN2Z6NGFnNm4zYm5tcGFzcHB6NmI4azg2YnNjOXR0Z3VpeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" width="300">
+</div>
+
 
 ## 🌟 Projetos
 
