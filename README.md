@@ -2,7 +2,7 @@
 
 # Guilherme Castro Melo
 
-### ☁️ Cloud Computing | 🔐 Cyber Security | 🚀 Em Transição de Carreira
+### ☁️ Cloud Computing | 🔐 Cyber Security | 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AWS+re%2FStart+%7C+Google+Cyber+Security;DevSecOps+%26+Infraestrutura+como+Código;Python+para+Automação+%26+Segurança;Buscando+primeira+oportunidade!)](https://git.io/typing-svg)
 
